@@ -1,0 +1,16 @@
+.emotion-indicator {
+    background-color: #f1f5f8;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  .emotion {
+    display: flex;
+    align-items: center;
+  }
+  
+  .emotion-icon {
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
